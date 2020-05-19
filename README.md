@@ -9,14 +9,14 @@ Forked for humtum platform
 Yarn:
 
 ```javascript
-yarn add @humtum/action-cable-react-jwt
+yarn add humtum-action-cable-react-jwt
 
 ```
 
 npm:
 
 ```javascript
-npm install @humtum/action-cable-react-jwt
+npm install humtum-action-cable-react-jwt
 
 ```
 
