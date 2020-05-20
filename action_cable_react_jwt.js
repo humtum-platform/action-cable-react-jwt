@@ -2,7 +2,7 @@
   (function () {
     (function () {
       var slice = [].slice;
-      if (global)
+      if (typeof global !== 'undefined')
         global.document = {
           addEventListener: function () {},
           removeEventListener: function () {}
